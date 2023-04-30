@@ -1,0 +1,762 @@
+name,position,team,price,total_points,goals,assists
+Xhaka,3,Arsenal,4.8,119,5,5
+Elneny,3,Arsenal,4.1,6,0,0
+Holding,2,Arsenal,4.2,20,1,0
+Partey,3,Arsenal,4.7,79,3,0
+Ødegaard,3,Arsenal,6.6,180,12,8
+Tierney,2,Arsenal,4.6,32,0,1
+Pépé,3,Arsenal,5.3,0,0,0
+White,2,Arsenal,5.0,139,2,5
+Nketiah,4,Arsenal,6.4,60,4,2
+Smith Rowe,3,Arsenal,5.6,13,0,1
+Saka,3,Arsenal,8.3,187,13,12
+Tomiyasu,2,Arsenal,4.2,32,0,1
+Ramsdale,1,Arsenal,4.8,120,0,0
+Gabriel,2,Arsenal,5.3,129,3,0
+Tavares,2,Arsenal,4.5,0,0,0
+Martinelli,3,Arsenal,6.8,190,15,8
+Pablo Marí,2,Arsenal,4.5,0,0,0
+Torreira,3,Arsenal,4.5,0,0,0
+Nelson,3,Arsenal,4.7,38,3,3
+Turner,1,Arsenal,3.8,0,0,0
+Fábio Vieira,3,Arsenal,5.6,38,1,2
+Saliba,2,Arsenal,5.0,117,2,1
+Marquinhos,3,Arsenal,4.6,1,0,0
+Jesus,4,Arsenal,8.1,101,9,6
+Trossard,3,Arsenal,6.6,139,8,11
+Jorginho,3,Arsenal,5.7,65,2,1
+Zinchenko,2,Arsenal,5.2,91,1,2
+Smith,3,Arsenal,4.4,0,0,0
+Nwaneri,3,Arsenal,4.5,1,0,0
+Sousa,2,Arsenal,4.0,0,0,0
+Hein,1,Arsenal,3.9,0,0,0
+Cozier-Duberry,3,Arsenal,4.5,0,0,0
+Butler-Oyedeji,4,Arsenal,4.5,0,0,0
+Kiwior,2,Arsenal,4.0,2,0,0
+Walters,2,Arsenal,4.0,0,0,0
+Coutinho,3,Aston Villa,6.6,32,1,0
+Martínez,1,Aston Villa,5.0,123,0,0
+Chambers,2,Aston Villa,4.2,12,0,0
+Digne,2,Aston Villa,4.5,46,1,0
+Traoré,3,Aston Villa,4.9,18,2,0
+Olsen,1,Aston Villa,3.9,10,0,0
+Sanson,3,Aston Villa,4.3,2,0,0
+McGinn,3,Aston Villa,5.1,82,1,5
+Hause,2,Aston Villa,4.4,0,0,0
+Mings,2,Aston Villa,4.7,123,1,3
+Watkins,4,Aston Villa,7.8,159,14,7
+Nakamba,3,Aston Villa,4.3,0,0,0
+Buendía,3,Aston Villa,5.7,108,5,3
+Cash,2,Aston Villa,4.6,53,0,2
+Konsa,2,Aston Villa,4.4,101,0,0
+Bailey,3,Aston Villa,4.3,90,4,4
+Douglas Luiz,3,Aston Villa,4.8,113,4,6
+Ramsey,3,Aston Villa,5.3,106,4,6
+Iroegbunam,3,Aston Villa,4.5,0,0,0
+Diego Carlos,2,Aston Villa,4.7,3,0,0
+El Ghazi,3,Aston Villa,4.8,0,0,0
+Davis,4,Aston Villa,5.4,0,0,0
+Kamara,3,Aston Villa,4.8,38,0,1
+Archer,4,Aston Villa,4.2,6,0,0
+Philogene-Bidace,3,Aston Villa,4.5,0,0,0
+Guilbert,2,Aston Villa,3.9,0,0,0
+Dendoncker,3,Aston Villa,4.7,34,0,0
+Augustinsson,2,Aston Villa,4.3,2,0,0
+Kesler Hayden,2,Aston Villa,4.0,0,0,0
+Young,2,Aston Villa,4.3,82,1,0
+Bogarde,2,Aston Villa,4.0,0,0,0
+Marschall,1,Aston Villa,4.0,0,0,0
+Kadan Young,3,Aston Villa,4.5,0,0,0
+Álex Moreno,2,Aston Villa,4.5,65,0,3
+Sinisalo,1,Aston Villa,4.0,0,0,0
+Durán,4,Aston Villa,5.5,7,0,0
+Swinkels,2,Aston Villa,4.0,0,0,0
+Zych,1,Aston Villa,4.0,0,0,0
+Wright,1,Aston Villa,4.0,0,0,0
+Revan,2,Aston Villa,4.0,0,0,0
+Patterson,3,Aston Villa,4.5,0,0,0
+O'Reilly,3,Aston Villa,4.5,0,0,0
+Smith,2,Bournemouth,4.3,68,0,1
+Stanislas,3,Bournemouth,4.8,4,0,0
+Fredericks,2,Bournemouth,4.4,12,0,0
+Brooks,3,Bournemouth,5.3,2,0,0
+Lowe,3,Bournemouth,5.2,2,0,0
+Moore,4,Bournemouth,4.9,53,4,0
+Marcondes,3,Bournemouth,4.7,1,0,0
+Lerma,3,Bournemouth,4.7,79,3,0
+Stacey,2,Bournemouth,4.2,5,0,0
+Solanke,4,Bournemouth,5.6,115,5,10
+Cook,3,Bournemouth,4.9,47,0,2
+Pearson,3,Bournemouth,4.4,9,0,0
+Christie,3,Bournemouth,5.3,52,1,1
+Billing,3,Bournemouth,5.2,116,7,1
+Mepham,2,Bournemouth,4.3,42,0,0
+Travers,1,Bournemouth,4.2,25,0,0
+Kelly,2,Bournemouth,4.3,52,0,2
+Dembélé,3,Bournemouth,4.7,6,0,0
+Anthony,3,Bournemouth,5.2,52,3,0
+Zemura,2,Bournemouth,4.3,47,0,1
+Dennis,1,Bournemouth,3.9,0,0,0
+Stephens,2,Bournemouth,4.3,35,0,0
+Rothwell,3,Bournemouth,4.9,28,0,1
+Tavernier,3,Bournemouth,4.7,94,5,4
+Hill,2,Bournemouth,4.4,0,0,0
+Randolph,1,Bournemouth,4.0,0,0,0
+Neto,1,Bournemouth,4.5,84,0,0
+Senesi,2,Bournemouth,4.4,64,2,0
+Saydee,4,Bournemouth,4.5,0,0,0
+Bevan,2,Bournemouth,4.0,1,0,0
+Plain,1,Bournemouth,4.0,0,0,0
+Adu-Adjei,4,Bournemouth,4.5,0,0,0
+Dacosta Gonzalez,3,Bournemouth,4.4,0,0,0
+Sadi,4,Bournemouth,4.5,0,0,0
+Ouattara,3,Bournemouth,5.0,40,1,3
+Pollock,4,Bournemouth,4.5,0,0,0
+Semenyo,4,Bournemouth,5.0,11,0,0
+Viña,2,Bournemouth,4.5,17,1,0
+Zabarnyi,2,Bournemouth,4.5,2,0,0
+H.Traorè,3,Bournemouth,4.5,14,0,0
+Greenwood,2,Bournemouth,4.0,0,0,0
+Kinsey-Wellings,2,Bournemouth,4.0,0,0,0
+Jansson,2,Brentford,4.2,29,1,0
+Nørgaard,3,Brentford,5.3,71,1,6
+Toney,4,Brentford,7.6,173,19,4
+Raya,1,Brentford,4.9,144,0,0
+Canós,2,Brentford,5.0,5,0,0
+Dasilva,3,Brentford,4.1,68,3,2
+Ajer,2,Brentford,4.5,29,0,0
+Henry,2,Brentford,4.5,97,0,3
+Janelt,3,Brentford,5.5,74,3,1
+Ghoddos,3,Brentford,4.8,12,0,0
+Jensen,3,Brentford,4.8,120,5,6
+Wissa,3,Brentford,5.3,87,5,3
+Roerslev,2,Brentford,4.3,45,0,0
+Bech,2,Brentford,4.5,4,0,0
+Pinnock,2,Brentford,4.4,84,2,0
+Onyeka,3,Brentford,4.8,24,0,1
+Baptiste,3,Brentford,4.5,24,0,2
+Mbeumo,4,Brentford,5.7,117,6,7
+Goode,2,Brentford,3.9,0,0,0
+Forss,4,Brentford,4.5,0,0,0
+Thompson,2,Brentford,4.0,0,0,0
+Bidstrup,3,Brentford,4.5,0,0,0
+Balcombe,1,Brentford,4.0,0,0,0
+Hickey,2,Brentford,4.9,43,0,2
+Lewis-Potter,3,Brentford,5.2,14,0,1
+Strakosha,1,Brentford,4.3,0,0,0
+Mee,2,Brentford,5.1,120,3,1
+Stevens,2,Brentford,4.0,0,0,0
+Dervişoğlu,4,Brentford,4.5,4,0,1
+Damsgaard,3,Brentford,5.0,25,0,0
+Zanka,2,Brentford,3.9,36,0,1
+Trevitt,3,Brentford,4.4,0,0,0
+Cox,1,Brentford,3.9,0,0,0
+Crama,2,Brentford,4.0,0,0,0
+Yarmolyuk,3,Brentford,4.5,0,0,0
+Schade,3,Brentford,4.9,20,0,1
+Olakigbe,3,Brentford,4.5,0,0,0
+Lallana,3,Brighton,4.8,47,2,1
+Steele,1,Brighton,3.9,38,0,1
+Welbeck,4,Brighton,6.5,68,4,4
+Groß,3,Brighton,5.4,121,6,6
+Dunk,2,Brighton,4.8,94,1,1
+March,3,Brighton,5.3,144,6,10
+Webster,2,Brighton,4.5,63,0,0
+Veltman,2,Brighton,4.6,89,1,1
+Sánchez,1,Brighton,4.5,82,0,0
+Lamptey,2,Brighton,4.2,23,0,0
+Alzate,3,Brighton,4.4,0,0,0
+Mac Allister,3,Brighton,5.5,109,8,1
+Moder,3,Brighton,4.4,0,0,0
+Mwepu,3,Brighton,5.3,11,0,1
+Sarmiento,3,Brighton,4.5,16,0,2
+Caicedo,3,Brighton,5.0,65,1,1
+Richards,3,Brighton,4.5,0,0,0
+Roberts,2,Brighton,4.0,0,0,0
+Undav,4,Brighton,5.0,18,0,1
+Mitoma,3,Brighton,5.6,116,7,7
+Enciso,4,Brighton,4.6,29,2,1
+Kozłowski,3,Brighton,4.5,0,0,0
+Gilmour,3,Brighton,4.2,7,0,0
+Scherpen,1,Brighton,4.0,0,0,0
+Clarke,2,Brighton,4.0,0,0,0
+Van Hecke,2,Brighton,4.0,4,0,0
+Colwill,2,Brighton,4.4,26,0,0
+Estupiñán,2,Brighton,4.8,90,0,5
+Ferguson,4,Brighton,4.6,45,4,2
+Turns,2,Brighton,4.0,0,0,0
+Moran,3,Brighton,4.5,1,0,0
+Furlong,2,Brighton,4.0,0,0,0
+Hinshelwood,3,Brighton,4.5,0,0,0
+Buonanotte,3,Brighton,4.5,16,1,1
+Ayari,3,Brighton,4.5,1,0,0
+Offiah,2,Brighton,4.0,1,0,0
+McGill,1,Brighton,4.0,0,0,0
+Chukwuemeka,3,Chelsea,4.2,14,0,0
+Cucurella,2,Chelsea,4.9,65,0,2
+Azpilicueta,2,Chelsea,4.7,39,0,0
+Thiago Silva,2,Chelsea,5.4,73,0,2
+Alonso,2,Chelsea,5.3,0,0,0
+Barkley,3,Chelsea,4.9,0,0,0
+Kovacic,3,Chelsea,4.9,47,1,1
+Arrizabalaga,1,Chelsea,4.6,106,0,0
+Kanté,3,Chelsea,4.8,11,0,0
+Ziyech,3,Chelsea,5.5,23,0,1
+Loftus-Cheek,3,Chelsea,5.0,37,0,0
+Werner,4,Chelsea,7.9,0,0,0
+Kenedy,2,Chelsea,3.9,0,0,0
+Chilwell,2,Chelsea,5.8,67,2,3
+Pulisic,3,Chelsea,5.6,36,1,1
+Chalobah,2,Chelsea,4.4,41,0,0
+Mount,3,Chelsea,7.2,82,3,4
+Sarr,2,Chelsea,5.0,0,0,0
+Hudson-Odoi,3,Chelsea,5.3,0,0,0
+Havertz,4,Chelsea,7.4,94,7,1
+James,2,Chelsea,5.8,44,1,2
+Mendy,1,Chelsea,4.8,23,0,0
+Gallagher,3,Chelsea,5.6,49,2,1
+Broja,4,Chelsea,5.2,21,1,1
+Ampadu,2,Chelsea,4.4,0,0,0
+W.Fofana,2,Chelsea,4.3,33,1,0
+Sterling,3,Chelsea,9.7,73,4,2
+Koulibaly,2,Chelsea,5.5,73,2,1
+Vale,3,Chelsea,4.5,0,0,0
+Zakaria,3,Chelsea,4.9,13,0,0
+Aubameyang,4,Chelsea,8.4,24,1,0
+Bettinelli,1,Chelsea,4.0,0,0,0
+Hutchinson,3,Chelsea,4.2,1,0,0
+Hall,3,Chelsea,4.3,8,0,0
+Humphreys,2,Chelsea,4.5,0,0,0
+D.D.Fofana,4,Chelsea,5.0,2,0,0
+Badiashile,2,Chelsea,5.0,32,0,0
+João Félix,4,Chelsea,7.3,30,2,0
+Mudryk,3,Chelsea,6.5,20,0,2
+Andrey Santos,3,Chelsea,4.5,0,0,0
+Madueke,3,Chelsea,5.4,8,0,0
+Enzo,3,Chelsea,5.0,32,0,2
+Sambi,3,Crystal Palace,4.3,23,0,0
+Guaita,1,Crystal Palace,4.4,99,0,0
+Tomkins,2,Crystal Palace,3.9,8,1,0
+McArthur,3,Crystal Palace,4.8,2,0,0
+Benteke,4,Crystal Palace,5.5,0,0,0
+Ward,2,Crystal Palace,4.4,60,0,0
+Clyne,2,Crystal Palace,4.5,44,0,0
+Milivojevic,3,Crystal Palace,4.2,22,0,0
+J.Ayew,3,Crystal Palace,5.2,87,3,2
+Zaha,3,Crystal Palace,7.2,86,6,2
+Schlupp,3,Crystal Palace,4.7,80,2,2
+Hughes,3,Crystal Palace,4.8,25,0,1
+Riedewald,3,Crystal Palace,4.2,4,0,0
+Andersen,2,Crystal Palace,4.5,69,1,0
+Edouard,4,Crystal Palace,5.0,69,4,2
+Guéhi,2,Crystal Palace,4.5,83,1,0
+Mateta,4,Crystal Palace,5.1,39,2,0
+Eze,3,Crystal Palace,5.6,125,7,4
+Mitchell,2,Crystal Palace,4.4,79,0,2
+Olise,3,Crystal Palace,5.5,111,2,8
+Rak-Sakyi,3,Crystal Palace,4.5,0,0,0
+Ebiowei,3,Crystal Palace,4.2,3,0,0
+Ferguson,2,Crystal Palace,3.9,0,0,0
+Johnstone,1,Crystal Palace,4.4,23,0,0
+Matthews,1,Crystal Palace,4.0,0,0,0
+Plange,4,Crystal Palace,4.5,0,0,0
+C.Doucouré,3,Crystal Palace,5.0,63,0,3
+Richards,2,Crystal Palace,4.4,13,0,0
+Whitworth,1,Crystal Palace,4.0,3,0,0
+Rodney,3,Crystal Palace,4.5,0,0,0
+Phillips,3,Crystal Palace,4.5,0,0,0
+Gordon,4,Crystal Palace,4.5,0,0,0
+Balmer,2,Crystal Palace,4.0,0,0,0
+Goodman,1,Crystal Palace,4.0,0,0,0
+Wells-Morrison,3,Crystal Palace,4.5,0,0,0
+Ozoh,3,Crystal Palace,4.5,1,0,0
+Ahamada,3,Crystal Palace,4.5,6,0,0
+Maupay,4,Everton,5.6,38,1,0
+Begović,1,Everton,3.9,9,0,0
+Rondón,4,Everton,4.9,7,0,0
+Coleman,2,Everton,4.2,63,1,0
+Townsend,3,Everton,5.4,0,0,0
+Keane,2,Everton,4.2,31,1,1
+Dele,3,Everton,5.3,2,0,0
+Pickford,1,Everton,4.4,102,0,1
+Allan,3,Everton,4.8,0,0,0
+André Gomes,3,Everton,4.5,0,0,0
+A.Doucouré,3,Everton,5.3,46,2,2
+Iwobi,3,Everton,4.9,104,1,7
+Gbamin,3,Everton,4.5,0,0,0
+Mina,2,Everton,4.3,13,1,0
+Gray,3,Everton,5.2,86,4,1
+Davies,3,Everton,4.9,19,0,0
+Calvert-Lewin,4,Everton,7.9,28,1,0
+Holgate,2,Everton,4.2,15,0,0
+Godfrey,2,Everton,4.3,18,0,1
+Mykolenko,2,Everton,4.1,72,0,1
+Branthwaite,2,Everton,4.0,0,0,0
+Patterson,2,Everton,3.9,26,0,0
+Nkounkou,2,Everton,4.0,0,0,0
+Tarkowski,2,Everton,4.2,92,1,1
+Coady,2,Everton,4.7,70,1,1
+Vinagre,2,Everton,4.3,2,0,0
+McNeil,3,Everton,5.1,96,5,3
+Mills,3,Everton,4.3,0,0,0
+Warrington,3,Everton,4.4,0,0,0
+Garner,3,Everton,4.5,16,0,1
+Onana,3,Everton,4.7,68,1,2
+Welch,2,Everton,4.0,0,0,0
+Gueye,3,Everton,4.8,58,0,1
+Jakupović,1,Everton,4.0,0,0,0
+John,2,Everton,3.9,0,0,0
+Cannon,4,Everton,4.5,2,0,0
+Price,3,Everton,4.5,0,0,0
+Simms,4,Everton,4.5,16,1,0
+Samuels-Smith,2,Everton,4.0,0,0,0
+Lonergan,1,Everton,4.0,0,0,0
+Cédric,2,Fulham,4.2,8,0,0
+Leno,1,Fulham,4.6,115,0,0
+Duffy,2,Fulham,4.3,4,0,0
+Cairney,3,Fulham,4.7,29,0,1
+Ream,2,Fulham,4.6,97,1,0
+Knockaert,3,Fulham,4.7,0,0,0
+Chalobah,3,Fulham,4.4,1,0,0
+Kebano,3,Fulham,5.4,37,0,4
+De Cordova-Reid,3,Fulham,5.4,84,4,1
+Bryan,2,Fulham,4.4,0,0,0
+Gazzaniga,1,Fulham,4.0,0,0,0
+Kongolo,2,Fulham,3.9,0,0,0
+Tosin,2,Fulham,4.4,38,1,0
+Mitrović,4,Fulham,6.6,90,11,2
+Reed,3,Fulham,4.3,90,3,2
+Wilson,3,Fulham,5.7,43,2,1
+Rodák,1,Fulham,4.3,7,0,0
+Cavaleiro,3,Fulham,4.8,0,0,0
+Tete,2,Fulham,4.4,71,0,4
+Onomah,3,Fulham,4.3,2,0,0
+Robinson,2,Fulham,4.4,79,0,1
+Muniz,4,Fulham,5.4,0,0,0
+Stansfield,4,Fulham,4.5,7,0,1
+Palhinha,3,Fulham,4.9,72,3,0
+James,3,Fulham,5.9,42,2,1
+Andreas,3,Fulham,4.4,122,4,10
+Diop,2,Fulham,4.3,63,1,0
+Francois,3,Fulham,4.4,1,0,0
+Mbabu,2,Fulham,4.3,7,0,1
+Harris,3,Fulham,4.3,3,0,0
+Solomon,3,Fulham,4.9,38,4,0
+Ablade,4,Fulham,4.5,0,0,0
+Kurzawa,2,Fulham,4.3,2,0,0
+Willian,3,Fulham,5.5,85,3,5
+Vinícius,4,Fulham,5.4,43,2,1
+Parkes,2,Fulham,4.0,0,0,0
+Godo,3,Fulham,4.5,0,0,0
+Sekularac,3,Fulham,4.5,0,0,0
+Lukic,3,Fulham,4.5,8,0,0
+Wickens,1,Fulham,4.0,0,0,0
+C.Robinson,2,Fulham,4.0,0,0,0
+Schmeichel,1,Leicester,5.0,0,0,0
+Evans,2,Leicester,4.4,12,0,0
+Bertrand,2,Leicester,3.9,0,0,0
+Albrighton,3,Leicester,4.7,13,1,0
+Mendy,3,Leicester,4.3,28,1,0
+Vestergaard,2,Leicester,3.8,0,0,0
+Ward,1,Leicester,3.9,91,0,0
+Vardy,4,Leicester,9.1,71,2,5
+Ricardo,2,Leicester,4.2,19,1,1
+Amartey,2,Leicester,4.0,51,0,0
+Castagne,2,Leicester,4.3,104,2,4
+Tielemans,3,Leicester,6.1,72,3,2
+Pérez,3,Leicester,4.7,19,0,2
+Maddison,3,Leicester,8.0,119,9,7
+Iheanacho,4,Leicester,5.9,76,5,4
+Choudhury,3,Leicester,4.5,0,0,0
+Barnes,3,Leicester,6.7,115,10,2
+Ndidi,3,Leicester,4.8,33,0,0
+Dewsbury-Hall,3,Leicester,4.9,78,2,3
+Söyüncü,2,Leicester,4.2,6,0,0
+Justin,2,Leicester,4.1,45,0,2
+Soumaré,3,Leicester,4.4,32,0,0
+Thomas,2,Leicester,3.9,19,0,1
+Daka,4,Leicester,5.6,63,4,3
+Brunt,2,Leicester,3.9,1,0,0
+Iversen,1,Leicester,3.8,14,0,0
+Praet,3,Leicester,4.8,32,1,1
+Smithies,1,Leicester,3.9,0,0,0
+Faes,2,Leicester,4.2,57,0,1
+Braybrooke,3,Leicester,4.5,0,0,0
+Wormleighton,2,Leicester,4.0,0,0,0
+McAteer,3,Leicester,4.5,0,0,0
+Kristiansen,2,Leicester,4.5,16,0,1
+Tetê,3,Leicester,5.1,25,1,0
+Souttar,2,Leicester,4.5,13,0,1
+Marçal-Madivadua,3,Leicester,4.5,0,0,0
+Cooper,2,Leeds,4.4,32,1,0
+Ayling,2,Leeds,4.5,48,1,1
+Klich,3,Leeds,4.6,12,0,0
+Forshaw,3,Leeds,4.4,8,0,0
+Rodrigo,3,Leeds,6.3,108,11,1
+Dallas,2,Leeds,4.9,0,0,0
+Bamford,4,Leeds,7.1,59,3,4
+Llorente,2,Leeds,4.4,16,0,0
+Roberts,3,Leeds,5.0,0,0,0
+Koch,2,Leeds,4.5,54,0,0
+Raphinha,3,Leeds,7.0,0,0,0
+Harrison,3,Leeds,5.7,118,4,8
+Shackleton,3,Leeds,4.5,0,0,0
+Struijk,2,Leeds,4.5,64,2,2
+Klaesson,1,Leeds,3.8,0,0,0
+Greenwood,4,Leeds,4.0,27,1,2
+Meslier,1,Leeds,4.5,89,0,0
+Firpo,2,Leeds,4.5,28,1,1
+Summerville,3,Leeds,4.2,71,4,4
+Bate,3,Leeds,4.5,0,0,0
+Gelhardt,4,Leeds,5.1,20,0,2
+Hjelde,2,Leeds,3.9,0,0,0
+Kristensen,2,Leeds,4.7,42,2,1
+Roca,3,Leeds,4.8,63,1,3
+Aaronson,3,Leeds,5.3,79,1,4
+Gyabi,3,Leeds,4.2,1,0,0
+Adams,3,Leeds,4.9,47,0,0
+Sinisterra,3,Leeds,6.5,53,5,0
+Drameh,2,Leeds,4.0,1,0,0
+Gray,3,Leeds,4.5,0,0,0
+Robles,1,Leeds,4.0,0,0,0
+Gnonto,4,Leeds,4.7,48,2,3
+Mateo Joseph,4,Leeds,4.5,3,0,0
+Perkins,4,Leeds,4.5,0,0,0
+Wöber,2,Leeds,4.4,23,0,0
+Rutter,4,Leeds,5.1,11,0,0
+McKennie,3,Leeds,4.6,20,0,0
+Chilokoa-Mullen,2,Leeds,4.0,0,0,0
+Monteiro,2,Leeds,4.0,0,0,0
+Milner,3,Liverpool,4.4,36,0,1
+Henderson,3,Liverpool,5.3,58,0,3
+Matip,2,Liverpool,5.9,36,1,0
+Thiago,3,Liverpool,5.1,30,0,0
+Chamberlain,3,Liverpool,4.9,20,1,0
+Firmino,4,Liverpool,8.0,92,9,4
+Van Dijk,2,Liverpool,6.6,101,3,0
+Alisson,1,Liverpool,5.4,134,0,1
+Fabinho,3,Liverpool,5.2,55,0,1
+Salah,3,Liverpool,13.0,189,16,8
+Robertson,2,Liverpool,6.8,105,0,8
+Alexander-Arnold,2,Liverpool,7.5,120,1,9
+Gomez,2,Liverpool,4.3,68,0,0
+Keita,3,Liverpool,4.7,10,0,0
+Diogo Jota,4,Liverpool,8.9,58,4,4
+Kelleher,1,Liverpool,4.0,0,0,0
+Konaté,2,Liverpool,4.8,32,0,0
+Jones,3,Liverpool,4.9,19,0,1
+Tsimikas,2,Liverpool,4.3,41,0,4
+Luis Díaz,3,Liverpool,7.8,42,3,2
+Elliott,3,Liverpool,4.8,57,1,2
+Carvalho,3,Liverpool,5.1,26,2,1
+Darwin,4,Liverpool,8.6,92,9,4
+Ramsay,2,Liverpool,3.9,0,0,0
+Adrián,1,Liverpool,3.8,0,0,0
+R.Williams,2,Liverpool,4.0,0,0,0
+Davies,2,Liverpool,4.0,0,0,0
+Van den Berg,2,Liverpool,4.0,0,0,0
+Phillips,2,Liverpool,3.8,3,0,0
+Chambers,2,Liverpool,4.0,0,0,0
+Bajcetic,3,Liverpool,4.3,22,1,0
+Clark,3,Liverpool,4.5,1,0,0
+H.Davies,1,Liverpool,4.0,0,0,0
+Arthur,3,Liverpool,4.8,0,0,0
+Doak,3,Liverpool,4.5,2,0,0
+Gakpo,3,Liverpool,7.7,67,6,1
+Walker,2,Man City,4.7,45,0,0
+Gündogan,3,Man City,7.3,96,4,5
+De Bruyne,3,Man City,12.1,178,7,18
+Stones,2,Man City,5.5,82,2,2
+Mahrez,3,Man City,7.3,92,5,7
+Grealish,3,Man City,7.3,113,5,9
+Cancelo,2,Man City,7.1,73,2,2
+Ederson,1,Man City,5.4,107,0,1
+Aké,2,Man City,5.0,68,0,0
+Laporte,2,Man City,5.6,23,0,0
+Steffen,1,Man City,4.0,0,0,0
+Bernardo,3,Man City,6.7,99,4,6
+Dias,2,Man City,6.0,66,0,0
+Foden,3,Man City,8.0,113,9,6
+Rodri,3,Man City,5.6,96,2,6
+Palmer,3,Man City,4.2,10,0,0
+McAtee,3,Man City,4.5,0,0,0
+Haaland,4,Man City,12.3,241,33,8
+Álvarez,4,Man City,6.0,74,7,2
+Mbete,2,Man City,3.9,0,0,0
+Wilson-Esbrand,2,Man City,3.8,0,0,0
+Delap,4,Man City,4.4,0,0,0
+Ortega,1,Man City,3.8,0,0,0
+Phillips,3,Man City,4.8,6,0,0
+Carson,1,Man City,3.8,0,0,0
+Lewis,2,Man City,3.9,17,0,0
+Sergio Gómez,2,Man City,4.4,10,0,1
+Gomes,3,Man City,4.5,0,0,0
+Knight,3,Man City,4.5,0,0,0
+Akanji,2,Man City,5.0,70,0,1
+Perrone,3,Man City,4.4,1,0,0
+Butland,1,Man Utd,4.4,0,0,0
+Ronaldo,4,Man Utd,10.2,20,1,0
+De Gea,1,Man Utd,5.0,126,0,0
+Jones,2,Man Utd,3.8,0,0,0
+Varane,2,Man Utd,4.8,63,0,0
+Maguire,2,Man Utd,4.7,35,0,0
+Fred,3,Man Utd,5.1,50,2,2
+Shaw,2,Man Utd,5.1,96,1,4
+Fernandes,3,Man Utd,9.4,134,5,8
+Telles,2,Man Utd,5.0,0,0,0
+Rashford,3,Man Utd,7.1,186,16,6
+Van de Beek,3,Man Utd,5.1,8,0,0
+Lindelöf,2,Man Utd,4.1,30,0,0
+McTominay,3,Man Utd,4.9,34,1,0
+Bailly,2,Man Utd,4.0,0,0,0
+Sancho,3,Man Utd,7.1,78,5,2
+Wan-Bissaka,2,Man Utd,4.3,50,0,0
+Dalot,2,Man Utd,4.7,89,1,2
+B.Williams,2,Man Utd,3.8,0,0,0
+Elanga,3,Man Utd,4.6,23,0,1
+Martial,4,Man Utd,6.3,45,4,3
+Pellistri,3,Man Utd,4.3,3,0,0
+Heaton,1,Man Utd,3.8,0,0,0
+Malacia,2,Man Utd,4.2,54,0,0
+Eriksen,3,Man Utd,6.2,80,1,7
+Martínez,2,Man Utd,4.4,81,1,0
+Amad,3,Man Utd,4.4,0,0,0
+Iqbal,3,Man Utd,4.2,0,0,0
+Garnacho,3,Man Utd,4.1,30,2,2
+Casemiro,3,Man Utd,4.9,61,2,3
+Antony,3,Man Utd,7.3,67,4,1
+Kovár,1,Man Utd,4.0,0,0,0
+Mainoo,3,Man Utd,4.5,1,0,0
+Bishop,1,Man Utd,4.0,0,0,0
+Shoretire,4,Man Utd,4.5,0,0,0
+Bennett,2,Man Utd,4.0,0,0,0
+Weghorst,4,Man Utd,5.4,19,0,1
+Sabitzer,3,Man Utd,4.7,20,0,1
+Jurado,2,Man Utd,4.0,0,0,0
+Gordon,3,Newcastle,5.1,53,3,0
+Ritchie,2,Newcastle,4.2,6,0,0
+Fernández,2,Newcastle,4.4,0,0,0
+Clark,2,Newcastle,4.5,0,0,0
+Darlow,1,Newcastle,3.9,0,0,0
+Dubravka,1,Newcastle,4.1,8,0,0
+Wilson,4,Newcastle,6.9,116,13,5
+Trippier,2,Newcastle,6.2,175,1,7
+Burn,2,Newcastle,4.5,109,0,0
+Fraser,3,Newcastle,5.2,11,0,0
+Lascelles,2,Newcastle,4.3,3,0,0
+Gayle,4,Newcastle,4.5,0,0,0
+Dummett,2,Newcastle,3.9,0,0,0
+Manquillo,2,Newcastle,4.2,3,0,0
+Krafth,2,Newcastle,4.3,1,0,0
+Murphy,3,Newcastle,4.1,72,4,2
+Schär,2,Newcastle,5.1,129,1,3
+Targett,2,Newcastle,4.7,31,0,0
+Saint-Maximin,3,Newcastle,6.1,60,1,6
+Almirón,3,Newcastle,5.4,144,11,3
+S.Longstaff,3,Newcastle,4.3,90,1,5
+Joelinton,3,Newcastle,6.0,108,6,5
+Lewis,2,Newcastle,4.4,1,0,0
+Willock,3,Newcastle,4.7,112,3,6
+Bruno Guimarães,3,Newcastle,5.5,91,3,5
+Hendrick,3,Newcastle,4.5,0,0,0
+Pope,1,Newcastle,5.4,137,0,0
+Botman,2,Newcastle,4.5,109,0,1
+Anderson,3,Newcastle,4.3,16,0,0
+Ashby,2,Newcastle,3.8,0,0,0
+Isak,4,Newcastle,6.9,81,10,0
+Karius,1,Newcastle,3.9,0,0,0
+Kuol,3,Newcastle,4.5,0,0,0
+Miley,3,Newcastle,4.5,0,0,0
+N.Williams,2,Nott'm Forest,3.8,54,1,1
+Shelvey,3,Nott'm Forest,4.8,16,0,0
+Wood,4,Nott'm Forest,5.6,53,3,0
+Arter,3,Nott'm Forest,4.1,0,0,0
+Cook,2,Nott'm Forest,4.3,20,0,0
+Lyle Taylor,4,Nott'm Forest,4.1,0,0,0
+Colback,3,Nott'm Forest,4.1,14,0,0
+Samba,1,Nott'm Forest,4.5,0,0,0
+Cafú,3,Nott'm Forest,4.2,1,0,0
+Lolley,3,Nott'm Forest,4.9,0,0,0
+McKenna,2,Nott'm Forest,4.4,40,0,0
+Dräger,2,Nott'm Forest,4.0,0,0,0
+Yates,3,Nott'm Forest,5.0,44,0,3
+Worrall,2,Nott'm Forest,4.2,50,1,0
+Panzo,2,Nott'm Forest,4.0,0,0,0
+Xande Silva,3,Nott'm Forest,5.0,0,0,0
+Surridge,4,Nott'm Forest,4.6,24,1,0
+Laryea,2,Nott'm Forest,4.5,0,0,0
+Mbe Soh,2,Nott'm Forest,4.2,0,0,0
+Johnson,4,Nott'm Forest,5.6,108,8,3
+Mighten,3,Nott'm Forest,4.9,1,0,0
+Ojeda,3,Nott'm Forest,4.5,0,0,0
+Awoniyi,4,Nott'm Forest,5.6,61,4,1
+Henderson,1,Nott'm Forest,4.6,82,0,0
+Biancone,2,Nott'm Forest,4.2,2,0,0
+Boly,2,Nott'm Forest,4.1,33,0,1
+Gibbs-White,3,Nott'm Forest,5.5,118,4,8
+Niakhaté,2,Nott'm Forest,4.3,15,0,0
+Richards,2,Nott'm Forest,4.4,0,0,0
+Hennessey,1,Nott'm Forest,3.9,4,0,0
+Toffolo,2,Nott'm Forest,4.3,27,0,0
+O'Brien,3,Nott'm Forest,4.7,22,1,0
+Lingard,3,Nott'm Forest,5.4,33,0,1
+Mangala,3,Nott'm Forest,4.9,35,1,0
+Hammond,3,Nott'm Forest,4.3,0,0,0
+Freuler,3,Nott'm Forest,4.9,54,0,0
+Kouyaté,3,Nott'm Forest,4.4,30,1,0
+Dennis,4,Nott'm Forest,5.6,38,2,2
+Renan Lodi,2,Nott'm Forest,4.3,45,0,1
+Badé,2,Nott'm Forest,4.5,0,0,0
+Aurier,2,Nott'm Forest,4.3,59,1,0
+Dale Taylor,4,Nott'm Forest,4.5,0,0,0
+Smith,1,Nott'm Forest,4.0,0,0,0
+Scarpa,3,Nott'm Forest,4.7,5,0,0
+Danilo,3,Nott'm Forest,4.5,23,1,1
+Navas,1,Nott'm Forest,4.5,28,0,0
+Felipe,2,Nott'm Forest,4.5,14,0,1
+A.Ayew,3,Nott'm Forest,5.0,10,0,0
+G.Shelvey,1,Nott'm Forest,4.0,0,0,0
+Maitland-Niles,3,Southampton,4.8,33,0,1
+Lavia,3,Southampton,4.5,46,1,0
+Walcott,3,Southampton,4.8,39,2,1
+McCarthy,1,Southampton,4.3,2,0,0
+Romeu,3,Southampton,4.8,2,0,0
+Redmond,3,Southampton,5.3,1,0,0
+S.Armstrong,3,Southampton,4.7,42,1,1
+Elyounoussi,3,Southampton,5.1,52,0,1
+Ward-Prowse,3,Southampton,6.2,114,7,2
+A.Armstrong,4,Southampton,5.3,46,1,1
+Walker-Peters,2,Southampton,4.4,54,1,0
+Bednarek,2,Southampton,4.2,31,0,0
+Adams,4,Southampton,6.0,91,5,5
+Tella,3,Southampton,5.0,0,0,0
+Lyanco,2,Southampton,4.4,16,0,0
+Valery,2,Southampton,4.0,0,0,0
+Smallbone,3,Southampton,4.5,0,0,0
+Diallo,3,Southampton,4.2,19,0,0
+Perraud,2,Southampton,4.1,71,2,2
+Djenepo,3,Southampton,5.0,25,0,2
+Livramento,2,Southampton,4.4,0,0,0
+Salisu,2,Southampton,4.3,33,0,1
+Lis,1,Southampton,4.0,0,0,0
+Bazunu,1,Southampton,4.5,84,0,0
+Bella-Kotchap,2,Southampton,4.5,48,0,2
+Caballero,1,Southampton,3.9,0,0,0
+Aribo,3,Southampton,5.0,44,2,0
+Mara,4,Southampton,5.3,31,1,2
+Larios,2,Southampton,4.0,4,0,0
+Caleta-Car,2,Southampton,4.4,28,1,0
+Edozie,3,Southampton,4.6,22,0,0
+Payne,3,Southampton,4.5,0,0,0
+Finnigan,3,Southampton,4.5,0,0,0
+Morgan,4,Southampton,4.5,0,0,0
+Orsic,3,Southampton,5.1,1,0,0
+Alcaraz,3,Southampton,5.0,38,3,1
+Bree,2,Southampton,4.5,4,0,0
+Kamaldeen,3,Southampton,4.9,22,0,0
+Onuachu,4,Southampton,5.4,11,0,0
+Lloris,1,Spurs,5.4,89,0,0
+Forster,1,Spurs,3.9,31,0,0
+Kane,4,Spurs,11.5,217,24,8
+Son,3,Spurs,11.5,131,9,4
+Doherty,2,Spurs,4.6,35,1,0
+Dier,2,Spurs,5.1,95,2,1
+Lucas Moura,3,Spurs,5.8,9,0,0
+Davies,2,Spurs,4.7,90,2,3
+Højbjerg,3,Spurs,5.4,113,4,5
+Winks,3,Spurs,4.4,0,0,0
+Sánchez,2,Spurs,4.2,25,0,0
+R.Sessegnon,2,Spurs,4.4,35,2,1
+Bergwijn,3,Spurs,5.5,0,0,0
+Reguilón,2,Spurs,4.2,0,0,0
+Tanganga,2,Spurs,3.8,4,0,0
+Bentancur,3,Spurs,5.3,71,5,2
+Skipp,3,Spurs,4.3,33,1,0
+Rodon,2,Spurs,4.0,0,0,0
+Romero,2,Spurs,4.9,56,0,1
+Bissouma,3,Spurs,4.7,23,0,0
+Emerson Royal,2,Spurs,4.8,76,2,2
+Kulusevski,3,Spurs,7.8,84,2,6
+Scarlett,4,Spurs,4.5,0,0,0
+Perišić,2,Spurs,5.3,88,1,7
+White,3,Spurs,4.4,1,0,0
+Sarr,3,Spurs,4.2,9,0,0
+Austin,1,Spurs,3.9,0,0,0
+Devine,3,Spurs,4.3,0,0,0
+Parrott,4,Spurs,4.5,0,0,0
+Richarlison,4,Spurs,8.4,44,0,5
+Lenglet,2,Spurs,4.8,54,0,2
+Spence,2,Spurs,4.1,4,0,0
+Bryan,3,Spurs,5.0,9,0,1
+Danjuma,3,Spurs,6.1,10,1,0
+Pedro Porro,2,Spurs,4.8,31,2,1
+Mundle,3,Spurs,4.5,0,0,0
+Abbott,3,Spurs,4.5,0,0,0
+Ings,4,West Ham,6.4,85,8,0
+Fabianski,1,West Ham,4.9,111,0,0
+Ogbonna,2,West Ham,4.4,33,0,0
+Cresswell,2,West Ham,4.7,65,0,1
+Antonio,4,West Ham,7.0,71,4,3
+Lanzini,3,West Ham,5.0,7,0,0
+Zouma,2,West Ham,4.4,86,2,1
+Masuaku,2,West Ham,4.5,0,0,0
+Coufal,2,West Ham,4.0,54,0,2
+Benrahma,3,West Ham,5.5,90,5,3
+Bowen,3,West Ham,8.0,123,5,8
+Vlasic,3,West Ham,5.0,0,0,0
+Rice,3,West Ham,4.7,99,3,3
+Soucek,3,West Ham,5.0,79,1,2
+Fornals,3,West Ham,4.9,54,2,1
+Johnson,2,West Ham,4.4,26,0,0
+Aguerd,2,West Ham,4.8,42,1,0
+Areola,1,West Ham,4.3,7,0,0
+Downes,3,West Ham,4.2,21,0,0
+Scamacca,4,West Ham,6.6,41,3,0
+Emerson,2,West Ham,4.0,33,1,0
+Coventry,3,West Ham,4.4,1,0,0
+Oko-Flex,3,West Ham,4.4,0,0,0
+Cornet,3,West Ham,5.9,11,0,0
+Kehrer,2,West Ham,4.3,58,0,3
+Paquetá,3,West Ham,5.9,85,4,4
+Mubama,4,West Ham,4.5,1,0,0
+Anang,1,West Ham,4.0,0,0,0
+Hegyi,1,West Ham,3.9,0,0,0
+Casey,2,West Ham,4.0,0,0,0
+Dawson,2,Wolves,4.8,68,1,1
+Jiménez,4,Wolves,6.6,26,0,2
+Jonny,2,Wolves,4.3,45,1,0
+Sá,1,Wolves,5.0,139,0,0
+Neves,3,Wolves,5.2,105,6,1
+Hwang,3,Wolves,5.7,44,2,2
+Semedo,2,Wolves,5.0,69,0,1
+Podence,3,Wolves,5.2,87,6,1
+Kilman,2,Wolves,4.3,102,0,1
+Cundle,3,Wolves,4.4,0,0,0
+Neto,3,Wolves,4.9,31,0,2
+Aït-Nouri,2,Wolves,4.1,41,1,0
+Fabio Silva,4,Wolves,5.5,0,0,0
+Toti,2,Wolves,3.8,24,0,0
+Chiquinho,3,Wolves,5.0,0,0,0
+Adama,3,Wolves,5.4,57,2,3
+Šarkić,1,Wolves,3.9,0,0,0
+Mosquera,2,Wolves,3.9,0,0,0
+Moutinho,3,Wolves,4.6,55,0,2
+Collins,2,Wolves,4.3,46,0,0
+Smith,1,Wolves,3.9,0,0,0
+Bueno,2,Wolves,3.8,41,0,1
+Hodge,3,Wolves,4.3,4,0,0
+Ronan,3,Wolves,4.4,1,0,0
+Campbell,3,Wolves,4.4,5,0,0
+Guedes,3,Wolves,5.8,29,1,1
+Matheus,3,Wolves,4.8,72,1,1
+Kalajdžić,4,Wolves,5.3,1,0,0
+Diego Costa,4,Wolves,5.3,29,1,0
+Traoré,3,Wolves,4.3,12,0,1
+Fraser,4,Wolves,4.5,0,0,0
+Griffiths,3,Wolves,4.4,0,0,0
+Lembikisa,2,Wolves,4.0,1,0,0
+Cunha,4,Wolves,5.3,34,2,0
+Lemina,3,Wolves,4.5,25,0,1
+Sarabia,3,Wolves,5.1,24,1,0
+Bentley,1,Wolves,4.0,0,0,0
+João Gomes,3,Wolves,4.5,16,1,0
